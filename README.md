@@ -6,10 +6,10 @@
 
 ---
 
-🌱 I’m currently learning to program in Golang and javascript
-🤔 I’m looking for help with finding the motivation for programming all day instead of YouTube all day
-👯 I’m looking to collaborate on cool project
-😄 Pronouns: He/Him
+- 🌱 I’m currently learning to program in Golang and javascript
+- 🤔 I’m looking for help with finding the motivation for programming all day instead of YouTube all day
+- 👯 I’m looking to collaborate on cool project's where I can learn a lot
+- 😄 Pronouns: He/Him
 
 <!--
 **xaner4/xaner4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
